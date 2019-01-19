@@ -17,19 +17,22 @@
   <div id="app"></div>
   <script>
     window.$docsify = {
+      subMaxLevel: 2,
       name: '',
-      repo: ''
-    }
+      repo: '',
+         loadSidebar: true,
+        loadSidebar: "_sidebar.md",
+        auto2top: true, //当路径改变时，滚到屏幕顶部
+        maxLevel: 2,
+        search: {
+          paths: "auto", // or 'auto'
+          placeholder: "搜索",
+          noData: "No results"
+        }
+    };
   </script>
   <script src="//unpkg.com/docsify/lib/docsify.min.js"></script>
-  
-<script>
-  window.$docsify = {
-    loadSidebar: true,
-    subMaxLevel: 2
-  }
-</script>
-<script src="//unpkg.com/docsify/lib/docsify.min.js"></script>
+
 
 <script src="//unpkg.com/docsify-copy-code"></script>
 
