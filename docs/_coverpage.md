@@ -8,4 +8,4 @@
 * 卡片写作
 * 卡片应用
 
-[Get Started](#quick-start)
+[Get Started](READM.md)
