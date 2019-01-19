@@ -1,9 +1,4 @@
-* [Home](zh-cn/)
-* [Guide](guide.md)
-  * [快速开始](zh-cn/guide.md)
-
-* 真正的指南
-  * [导航栏](_navbar.md)
-  * [封面](_coverpage.md)
+- [Home](/)
+- [Guide](guide.md)
 
 
