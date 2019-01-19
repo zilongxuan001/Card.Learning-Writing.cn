@@ -5,3 +5,8 @@
 
 * [guide](guide.md)
 
+* [起步](/)
+
+* [安装](setup.md)
+
+
