@@ -15,6 +15,7 @@
    - [于尔根 沃尔夫：索引卡的方法](document/note02.md)
    - [塔奇曼：卡片必须随身携带](document/note03.md)
    - [吴晗：怎样作卡片的 8 条建议](document/note04.md)
+   - [卡片十二文](document/note24.md)
    - [安妮·拉莫特：我如何用索引卡](document/note05.md)
    - [奥野宣之：如何使用卡片重组信息](document/note06.md)
    - [李参：利用便利贴进行课程开发](document/note07.md)
