@@ -259,3 +259,6 @@ For the times they are a changin
 P.S.1984 年 1 月 24 日，乔布斯用这首歌作为 Macintosh 的发布会开场音乐。
 
 
+##
+
+
