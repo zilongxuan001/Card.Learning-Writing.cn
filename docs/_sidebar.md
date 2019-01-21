@@ -1,28 +1,27 @@
-- [Home](/)
-- [Guide](guide.md)
-  - [1123](1123.md)
-  
-- [序言](document/序言.md)
-
-- [文集](document/文集.md)
-
-  - [于尔根沃尔夫-索引卡的方法](document/于尔根沃尔夫-索引卡的方法.md)
-  
-  - [卡片创作法之安妮·拉莫特](document/卡片创作法之安妮·拉莫特.md)
-  
-  - [卡片创作谈-日常使用卡片4问](document/卡片创作谈-日常使用卡片4问.md)
-  
-  - [徐有富-怎样写读书笔记](document/徐有富-怎样写读书笔记.md)
-  
-  - [我与卡片的故事](document/我与卡片的故事.md)
-  
-  - [索引卡简史-从这里窥见互联网信息革命](document/索引卡简史-从这里窥见互联网信息革命.md)
-  
-  - [采铜-图层工作法](document/采铜-图层工作法.md)
-  
-  - [](document/ )
-  
-
-- [后记](document/后记.md)
-
-
+- [序言](chapter00/preface00.md)
+- [文集](chapter01/README.md)
+   - [卡片创作法之纳博科夫](chapter01/note12.md)
+   - [卡片创作法之司马贺](chapter01/note13.md)
+   - [卡片创作法之奥斯卡编剧](chapter01/note14.md)
+   - [卡片创作法之王云五](chapter01/note15.md)
+   - [卡片创作法之梅棹忠夫 ](chapter01/note16.md)
+   - [卡片创作法之梁文道](chapter01/note17.md)
+   - [卡片创作谈：这些卡片用法最容易被人误用](chapter01/note18.md)
+   - [卡片创作谈：日常使用卡片 4 问 ](chapter01/note19.md)
+   - [卡片创作谈：读书卡片写得越多，反而不会读书了？ ](chapter01/note20.md)
+   - [索引卡简史：从这里窥见互联网信息革命](chapter01/note21.md)
+   - [卡片创作法相册](https://www.douban.com/photos/album/1657063257/)
+   - [采铜：图层工作法](chapter01/note01.md)
+   - [于尔根 沃尔夫：索引卡的方法](chapter01/note02.md)
+   - [塔奇曼：卡片必须随身携带](chapter01/note03.md)
+   - [吴晗：怎样作卡片的 8 条建议](chapter01/note04.md)
+   - [安妮·拉莫特：我如何用索引卡](chapter01/note05.md)
+   - [奥野宣之：如何使用卡片重组信息](chapter01/note06.md)
+   - [李参：利用便利贴进行课程开发](chapter01/note07.md)
+   - [赖声川：我如何用卡片创作《如梦之梦》](chapter01/note08.md)
+   - [akanelee：团队如何用卡片协作头脑风暴？](chapter01/note22.md)
+   - [川喜田二郎：搭配脑力激荡的最佳武器「KJ法」](chapter01/note23.md)
+   - [如何用卡片写故事地图？](chapter01/note09.md)
+   - [如何写读书卡片？](chapter01/note10.md)
+   - [优秀卡片写作实践](chapter01/note11.md)
+* [后记](end/postscript.md)
