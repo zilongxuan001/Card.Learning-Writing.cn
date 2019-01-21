@@ -26,5 +26,6 @@
    - [如何用卡片写故事地图？](document/note09.md)
    - [如何写读书卡片？](document/note10.md)
    - [优秀卡片写作实践](document/note11.md)
+   - [陈素封关于卡片的问答](document/note26.md)
 
 * [后记](document/postscript.md)
