@@ -13,7 +13,7 @@
 
 陈素封 [开智学堂](javascript:void(0);) *2017-02-07*
 
-![img](http://mmbiz.qpic.cn/mmbiz_jpg/ice5enJHe2TiaaaQNd78bXyqdAn94pdhRkCdVKibK3zMEZyHtwRbvQN6XeseXhp0VDokUc8TftGpKp8mM4AkCuUEg/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
+
 
 日本著名诗人、小说家高桥源一郎（TakahashiGenyitiro）曾把纳博科夫和博尔赫斯、卡尔维诺、温贝尔特·艾科等作家并列，称他们**「无论在技法上，还是在理论上，他们分明都是在文学的最前沿进行创作的作家。」**
 
@@ -228,7 +228,7 @@
 
 写这篇文章的部分卡片：
 
-![](http://openmindclub.qiniudn.com/omt/CardList.jpg)
+![img](http://mmbiz.qpic.cn/mmbiz_jpg/HRoY0QT1GiaYEMdIQKicIB4ev8mWfjLL3G4x0uBhRDkLEFqOQuAeJCFmQT6D14DZaz5FZ4iblRtzGrToagsEE8MRg/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
 
  
 ## 参考资料
