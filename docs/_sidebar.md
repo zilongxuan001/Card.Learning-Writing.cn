@@ -1,5 +1,6 @@
 - [序言](document/preface00.md)
 - [文集](document/README.md)
+   - [纳博科夫的卡片](document/note25.md)
    - [卡片创作法之纳博科夫](document/note12.md)
    - [卡片创作法之司马贺](document/note13.md)
    - [卡片创作法之奥斯卡编剧](document/note14.md)
