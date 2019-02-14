@@ -105,3 +105,5 @@ LPTHW传递出来的绝对不仅仅是简单的语法结构，每一次简单的
 ## ChangeLog
 
 161226 新建
+
+[初阶编程学习 | 浚宇的博客](https://blog.junyu.io/posts/0704-programing-learning.html)
